@@ -15,3 +15,7 @@
     cursor: pointer;
     border-top: 4px solid transparent;
 }
+
+.selected{
+    border-color: white;
+}
